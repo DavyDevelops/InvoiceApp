@@ -1,0 +1,5 @@
+12:33
+        <View>
+          <Calendar style={styles.inputContainer} />
+        </View>
+        mongodb+srv://davyyong9:<password>@cluster0.va6jabn.mongodb.net/?retryWrites=true&w=majority
